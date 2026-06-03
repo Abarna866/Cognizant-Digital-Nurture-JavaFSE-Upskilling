@@ -70,5 +70,4 @@ This repository contains my solutions and practice exercises completed as part o
 
 This repository serves as a learning record and practice collection for the Cognizant Digital Nurture Java FSE Upskilling Program.
 
----
-Author: Abarna
+
